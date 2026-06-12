@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite it and the original public datasets by their accessions."
+title: "Skin Photoaging ECM/Collagen Bioinformatics Reproducibility Package"
+abstract: >-
+  Public-data analyses and figure-generation code for extracellular-matrix (ECM) /
+  collagen remodeling in skin photoaging and aging. Includes public-dataset manifests,
+  small processed public-data tables, a documented systematic dataset screen, and the
+  generated figures. Unpublished manuscript files and private raw experimental inputs
+  are excluded.
+type: software
+authors:
+  - name: "wukonglin"
+    # Replace with full author name(s) and ORCID before any public release.
+keywords:
+  - skin photoaging
+  - extracellular matrix
+  - collagen remodeling
+  - dermal fibroblasts
+  - public-data reproducibility
+  - bioinformatics
+license: MIT
+version: "0.1.0"
+date-released: "2026-06-12"
+references:
+  - type: data
+    title: "Public datasets used in this package"
+    notes: "See data_manifest/public_data_accessions.tsv and data_manifest/public_data_citations.md for all GEO/SRA/BioProject/PRIDE accessions and their source URLs."

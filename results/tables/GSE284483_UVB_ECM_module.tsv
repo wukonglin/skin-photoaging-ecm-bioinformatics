@@ -1,0 +1,8 @@
+sample	group	module_score
+NoUVB.1	NoUVB(control)	-1.0693
+NoUVB.2	NoUVB(control)	1.2436
+NoUVB.3	NoUVB(control)	-0.0745
+UVB-Saline.1	UVB-Saline(photoaged)	-0.453
+UVB-Saline.2	UVB-Saline(photoaged)	0.5107
+UVB-Saline.3	UVB-Saline(photoaged)	-0.1576
+__GROUP_TEST__	NoUVB vs UVB-Saline (Welch t, n=3 vs 3)	mean_ctrl=0.033; mean_photo=-0.033; delta=-0.067; t=0.091; p=0.9335; cohens_d=-0.07; module_genes_used=19/19 (missing: none)

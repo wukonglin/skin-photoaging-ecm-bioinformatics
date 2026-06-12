@@ -1,0 +1,15 @@
+Term	Adjusted P-value	Overlap	Gene_set
+extracellular matrix organization (GO:0030198)	6.26581686649009e-14	31/300	GO_Biological_Process_2021
+Extracellular Matrix Organization R-HSA-1474244	8.425046250219781e-14	30/291	Reactome_2022
+Collagen Formation R-HSA-1474290	1.3464888592300893e-07	13/90	Reactome_2022
+Assembly Of Collagen Fibrils And Other Multimeric Structures R-HSA-2022090	1.1756475354941984e-06	10/57	Reactome_2022
+collagen fibril organization (GO:0030199)	1.4411749010686638e-06	12/89	GO_Biological_Process_2021
+Collagen Biosynthesis And Modifying Enzymes R-HSA-1650814	4.1722905164259265e-05	9/67	Reactome_2022
+regulation of extracellular matrix disassembly (GO:0010715)	0.0001704694860940006	5/15	GO_Biological_Process_2021
+Degradation Of Extracellular Matrix R-HSA-1474228	0.0002628989902802395	10/109	Reactome_2022
+ECM Proteoglycans R-HSA-3000178	0.0006980455589746915	7/55	Reactome_2022
+Elastic Fibre Formation R-HSA-1566948	0.0008246525090465681	6/39	Reactome_2022
+Collagen Chain Trimerization R-HSA-8948216	0.0015021501260418	6/44	Reactome_2022
+positive regulation of extracellular matrix disassembly (GO:0090091)	0.0043318978321111	3/8	GO_Biological_Process_2021
+actin-mediated cell contraction (GO:0070252)	0.0060053688885202	3/9	GO_Biological_Process_2021
+Laminin Interactions R-HSA-3000157	0.0079346307728749	4/22	Reactome_2022

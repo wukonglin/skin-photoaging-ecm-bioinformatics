@@ -1,0 +1,58 @@
+# =============================================================================
+# environment.yml  --  PYTHON analysis environment for this project
+# -----------------------------------------------------------------------------
+# This is the environment that was actually BUILT and used for context parsing
+# and (optionally) the Python/scanpy single-cell route.
+#
+# Create / update:
+#     conda env create -f environment.yml          # first time
+#     conda env update -f environment.yml --prune   # to update
+#     conda activate junye_ecm
+#
+# Pinning policy: we pin the Python minor version for reproducibility but leave
+# library patch versions free so the solver can resolve a consistent stack.
+# Re-export an exact lock once analysis is finalized:
+#     conda env export --no-builds -n junye_ecm > environment.lock.yml
+# =============================================================================
+name: junye_ecm
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pip
+  # --- core scientific stack ---
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - statsmodels
+  # --- local file / context parsing (no network egress of manuscript text) ---
+  - pypdf
+  - python-docx
+  - openpyxl
+  - lxml
+  - beautifulsoup4
+  - html5lib
+  - requests
+  - pyyaml
+  - tqdm
+  # --- plotting ---
+  - matplotlib
+  - seaborn
+  # --- single-cell (optional Python route: scanpy ecosystem) ---
+  - scanpy
+  - anndata
+  - leidenalg
+  - python-igraph
+  - louvain
+  # --- enrichment (Python route) ---
+  - gseapy
+  # --- notebooks ---
+  - jupyterlab
+  - ipykernel
+  # --- pip-only extras ---
+  - pip:
+      - geoparse        # parse GEO SOFT/series matrix metadata in Python
+      - decoupler       # pathway / TF activity scoring (optional)
+      - pydeseq2        # bulk DE in Python (optional alternative to R limma/edgeR)

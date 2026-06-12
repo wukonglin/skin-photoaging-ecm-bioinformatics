@@ -1,0 +1,62 @@
+# ---- OS / editor metadata ----
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+*~
+.idea/
+.vscode/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.python-version
+
+# ---- conda / R ----
+*.conda
+.Rhistory
+.RData
+.Rproj.user/
+
+# ---- large / raw public data (download via data_manifest/, do not commit) ----
+05_data_raw/
+06_data_processed/*.h5ad
+*.h5ad
+*.fastq
+*.fastq.gz
+*.bam
+*.mtx
+*.mtx.gz
+*_raw_counts_*.txt.gz
+*_matrix.tsv.gz
+
+# ---- private / confidential (must NEVER be committed) ----
+*.docx
+*manuscript*
+*meeting_note*
+*SESSION_MEMORY*
+*CHAT_MEMORY*
+*sendout*
+05_data_raw/
+
+# ---- secrets ----
+*.env
+.env
+*token*
+*secret*
+*credentials*
+*.pem
+*.key
+
+# ---- archives / scratch ----
+codes.zip
+*.zip
+*.tmp
+*.log

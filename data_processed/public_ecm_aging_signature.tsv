@@ -1,0 +1,130 @@
+gene_symbol	n_papers	directions
+ACAN	1	Li et al. 2021, Fron:down (toddler-high)
+AMBP	1	Li et al. 2021, Fron:up
+ANXA2	1	Ma et al. 2020, Agin:up
+ANXA5	1	Li et al. 2021, Fron:down
+ASPN	2	McCabe et al. 2020, :down;Solé-Boldo et al. 20:changed (mesenchymal marker; small leucine-rich proteoglycan/ECM; not given explicit aging direction)
+BGN	2	McCabe et al. 2020, :down;Li et al. 2021, Fron:up (elderly-high)
+CCL28	1	Li et al. 2021, Fron:up (elderly-high)
+CD109	1	Li et al. 2021, Fron:down
+CILP	1	Li et al. 2021, Fron:up (elderly-high)
+CLU	1	McCabe et al. 2020, :up
+COL10A1	2	Li et al. 2021, Fron:up (elderly-high);Tsitsipatis et al. 2:predicted FOX/HOX transcriptional target among age-changed mRNAs (network node; direction not directly stated)
+COL11A1	1	Solé-Boldo et al. 20:changed (mesenchymal-cluster identity marker; not given explicit aging direction)
+COL11A2	1	McCabe et al. 2020, :down
+COL12A1	1	Li et al. 2021, Fron:down
+COL13A1	1	Solé-Boldo et al. 20:changed (papillary identity marker; subpopulation-defining, not given explicit aging direction)
+COL17A1	3	McCabe et al. 2020, :down;Li et al. 2021, Fron:down (teenager-high);Zou et al. 2021, Dev:down
+COL18A1	1	Solé-Boldo et al. 20:changed (spatial-signature component; not given an explicit aging direction)
+COL1A1	2	McCabe et al. 2020, :down;Li et al. 2021, Fron:up (elderly-high)
+COL1A2	3	McCabe et al. 2020, :down;Solé-Boldo et al. 20:changed (pan-fibroblast marker; not given explicit aging direction);Li et al. 2021, Fron:up (elderly-high)
+COL21A1	1	Li et al. 2021, Fron:down
+COL23A1	2	Solé-Boldo et al. 20:changed (papillary identity marker; subpopulation-defining, not given explicit aging direction);Tsitsipatis et al. 2:changed with age (direction not explicitly stated in text)
+COL24A1	1	Solé-Boldo et al. 20:changed (mesenchymal-cluster identity marker; not given explicit aging direction)
+COL2A1	2	McCabe et al. 2020, :down;Li et al. 2021, Fron:up (elderly-high)
+COL3A1	1	Li et al. 2021, Fron:down (teenager-high)
+COL4A2	2	McCabe et al. 2020, :changed;Li et al. 2021, Fron:up (elderly-high)
+COL5A1	1	Li et al. 2021, Fron:down (toddler/young-high)
+COL5A2	1	McCabe et al. 2020, :down
+COL5A3	2	McCabe et al. 2020, :down;Tsitsipatis et al. 2:down (decreased after 50 years of age)
+COL6A1	1	Li et al. 2021, Fron:up
+COL6A2	1	Li et al. 2021, Fron:up (adult-high)
+COL6A5	1	McCabe et al. 2020, :down
+COL6A6	1	McCabe et al. 2020, :down
+COL7A1	2	McCabe et al. 2020, :down;Li et al. 2021, Fron:down (teenager-high)
+COL8A1	2	McCabe et al. 2020, :changed;Li et al. 2021, Fron:up (elderly-high)
+COLLAGEN GENES (GLOBAL / ALL COLLAGEN GENES)	1	Solé-Boldo et al. 20:down (decreased)
+CTGF/CCN2	1	Tsitsipatis et al. 2:not stated (abbreviation list only)
+CTHRC1	1	Solé-Boldo et al. 20:changed (secretory-reticular marker; collagen-related; not given explicit aging direction)
+CTSB	1	McCabe et al. 2020, :down
+CTSC	1	McCabe et al. 2020, :down
+CTSD	1	McCabe et al. 2020, :down
+CTSH	1	McCabe et al. 2020, :down
+CTSV	1	McCabe et al. 2020, :down
+CTSZ	1	McCabe et al. 2020, :down
+CXCL12	1	Li et al. 2021, Fron:up (elderly-high)
+DAG1	1	Ma et al. 2020, Agin:up
+DCN	2	McCabe et al. 2020, :down;Li et al. 2021, Fron:up (elderly-high)
+DPT	1	McCabe et al. 2020, :down
+ECM1	2	McCabe et al. 2020, :changed;Ma et al. 2020, Agin:down
+EFEMP1	1	Solé-Boldo et al. 20:changed (pro-inflammatory cluster marker; matricellular/fibulin-3; not given explicit aging direction)
+ELN	1	McCabe et al. 2020, :up
+EMILIN3	1	Li et al. 2021, Fron:down (toddler-high)
+FBLN1	1	McCabe et al. 2020, :up
+FBLN2	1	McCabe et al. 2020, :up
+FBLN5	1	McCabe et al. 2020, :down
+FBLN7	1	McCabe et al. 2020, :up
+FBN1	2	McCabe et al. 2020, :down;Li et al. 2021, Fron:up (elderly-high)
+FBN2	2	McCabe et al. 2020, :changed;Tsitsipatis et al. 2:changed with age (mRNA-protein comparison panel; direction not explicitly stated)
+FMOD	1	McCabe et al. 2020, :down
+FN1	1	McCabe et al. 2020, :changed
+FRAS1	1	Li et al. 2021, Fron:down
+GPC1	1	Ma et al. 2020, Agin:up
+GSN	1	Tsitsipatis et al. 2:changed with age (via GSN-AS1 antisense lncRNA, increased trajectory shown)
+HAPLN1	1	Li et al. 2021, Fron:up (elderly-high)
+HAPLN3	1	Li et al. 2021, Fron:down (toddler-high)
+HSPG2	1	McCabe et al. 2020, :down
+HTRA1	1	McCabe et al. 2020, :up
+HTRA3	1	McCabe et al. 2020, :up
+KRT14	1	Zou et al. 2021, Dev:down
+KRT34	1	McCabe et al. 2020, :down
+KRT5	1	Zou et al. 2021, Dev:down
+KRT75	1	McCabe et al. 2020, :down
+KRT83	1	McCabe et al. 2020, :down
+KRT85	1	McCabe et al. 2020, :down
+KRTAP2-3	1	McCabe et al. 2020, :down
+KRTAP3-1	1	McCabe et al. 2020, :down
+LAMA2	1	McCabe et al. 2020, :changed
+LAMA3	1	McCabe et al. 2020, :down
+LAMA4	1	McCabe et al. 2020, :down
+LAMA5	1	McCabe et al. 2020, :down
+LAMB1	1	McCabe et al. 2020, :changed
+LAMB2	1	McCabe et al. 2020, :down
+LAMB3	1	McCabe et al. 2020, :down
+LAMC1	1	McCabe et al. 2020, :changed
+LAMC2	1	McCabe et al. 2020, :down
+LOX	1	McCabe et al. 2020, :down
+LOXL1	1	Li et al. 2021, Fron:up (elderly-high)
+LTBP4	1	Li et al. 2021, Fron:down (toddler-high)
+LUM	2	McCabe et al. 2020, :down;Li et al. 2021, Fron:down (teenager-high)
+MATN2	1	McCabe et al. 2020, :down
+MATN4	1	McCabe et al. 2020, :down
+MFAP4	2	McCabe et al. 2020, :down;Li et al. 2021, Fron:down (teenager-high)
+MFAP5	2	Solé-Boldo et al. 20:down in reticular fibroblasts with aging (as part of reticular signature) / also a secretory-reticular identity marker;Zou et al. 2021, Dev:down
+MGP	3	Solé-Boldo et al. 20:down in reticular fibroblasts with aging (as part of reticular signature);Li et al. 2021, Fron:up (elderly-high);Zou et al. 2021, Dev:changed
+MMP2	2	McCabe et al. 2020, :down;Zou et al. 2021, Dev:up
+NID1	1	McCabe et al. 2020, :down
+NID2	1	McCabe et al. 2020, :down
+NPNT	1	Li et al. 2021, Fron:down (young-high)
+OGN	1	McCabe et al. 2020, :down
+PCOLCE2	1	Tsitsipatis et al. 2:up (increased with age)
+PLA2G2A	1	McCabe et al. 2020, :up
+PODN	1	McCabe et al. 2020, :down
+POSTN	1	Solé-Boldo et al. 20:changed (mesenchymal marker / matricellular; not given explicit aging direction)
+PRELP	1	McCabe et al. 2020, :down
+PRG4	1	Li et al. 2021, Fron:up (elderly-high)
+RAB21	1	Ma et al. 2020, Agin:up
+S100A1	1	Li et al. 2021, Fron:up (elderly-high)
+S100A3	1	Ma et al. 2020, Agin:down
+S100A4	1	Ma et al. 2020, Agin:up
+S100A7	1	Li et al. 2021, Fron:up (elderly-high)
+SEMA7A	1	Ma et al. 2020, Agin:up
+SERPINA6	1	McCabe et al. 2020, :down
+SERPINB2	1	McCabe et al. 2020, :down
+SERPINC1	1	McCabe et al. 2020, :down
+SERPINF2	1	McCabe et al. 2020, :down
+SERPING1	1	McCabe et al. 2020, :down
+SLPI	2	McCabe et al. 2020, :up;Li et al. 2021, Fron:up
+TGM1	1	McCabe et al. 2020, :changed
+TGM3	1	McCabe et al. 2020, :down
+TGM5	1	McCabe et al. 2020, :down
+THBS3	1	Li et al. 2021, Fron:up (elderly-high)
+THBS4	1	Tsitsipatis et al. 2:down (reduced with age)
+THSD4	1	Li et al. 2021, Fron:down (toddler-high)
+TIMP3	2	McCabe et al. 2020, :up;Li et al. 2021, Fron:up (elderly-high)
+TNFSF13	1	Li et al. 2021, Fron:up (elderly-high)
+TNXB	2	McCabe et al. 2020, :changed;Li et al. 2021, Fron:down (teenager-high)
+VCAN	2	McCabe et al. 2020, :down;Li et al. 2021, Fron:up (elderly-high)
+VEGFB	1	Li et al. 2021, Fron:up (elderly-high)
+VTN	2	McCabe et al. 2020, :up;Li et al. 2021, Fron:up (elderly-high)
+WISP2	1	McCabe et al. 2020, :up

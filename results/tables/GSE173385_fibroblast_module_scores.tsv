@@ -1,0 +1,13 @@
+module	condition	mean	n
+ECM_collagen	Control	1.2864336156012643	216
+ECM_collagen	UV	0.9213220505511537	846
+ECM_collagen	UV_VitD	1.2230448908762617	208
+ECM_collagen	UV_vs_Control_MWU_p	3.7267266132186425e-05	
+Adhesion_focal_adhesion	Control	0.14015843907235737	216
+Adhesion_focal_adhesion	UV	0.14471286259276755	846
+Adhesion_focal_adhesion	UV_VitD	0.11937519802526124	208
+Adhesion_focal_adhesion	UV_vs_Control_MWU_p	0.30074664924043426	
+Senescence_SASP_ROS	Control	0.7181980883486476	216
+Senescence_SASP_ROS	UV	0.557581525544359	846
+Senescence_SASP_ROS	UV_VitD	0.7472411486211714	208
+Senescence_SASP_ROS	UV_vs_Control_MWU_p	1.0608938030735162e-14	
