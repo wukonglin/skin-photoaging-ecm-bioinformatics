@@ -11,7 +11,7 @@ Every row carries a real accession and a traceable primary source URL. `decision
 prompt's controlled vocabulary. NOTHING here is fabricated -- metadata reflect the authoritative
 repository records confirmed during verification.
 
-  conda run -n junye_ecm python 04_code/19_public_dataset_audit_2022_2026.py
+  conda run -n skin-ecm-bioinformatics python 04_code/19_public_dataset_audit_2022_2026.py
 Output:
   09_outputs/revision_round_3_public_data_audit_20260612/public_dataset_candidates_2022_2026.tsv
 """

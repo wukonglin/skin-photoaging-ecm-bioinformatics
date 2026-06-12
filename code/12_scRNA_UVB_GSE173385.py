@@ -7,7 +7,7 @@ Mouse UVB-irradiated skin scRNA-seq (GSE173385: Control / UV / UV+VitD).
 Tissue-level test of whether UVB dysregulates the ECM / adhesion / collagen
 program specifically in DERMAL FIBROBLASTS — the model of interest.
 
-  conda run -n junye_ecm python 04_code/12_scRNA_UVB_GSE173385.py
+  conda run -n skin-ecm-bioinformatics python 04_code/12_scRNA_UVB_GSE173385.py
 
 Input:  05_data_raw/GSE173385/GSM5266942_C5_matrix.tsv.gz (+ UV, VD)  [genes x cells]
 Outputs:

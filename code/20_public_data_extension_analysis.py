@@ -21,7 +21,7 @@ Method (transparent, replicate-level; no cell-level p-value inflation):
   - replicate-level Welch t-test (NoUVB vs UVB-Saline) + Cohen's d
   - per-gene log2FC (UVB-Saline / NoUVB) for the structural collagen / matrisome core
 
-  conda run -n junye_ecm python 04_code/20_public_data_extension_analysis.py
+  conda run -n skin-ecm-bioinformatics python 04_code/20_public_data_extension_analysis.py
 
 Inputs (public; downloaded into the project, originals untouched):
   05_data_raw/public_extension_GSE284483/GSE284483_raw_counts_All_Samples.txt.gz

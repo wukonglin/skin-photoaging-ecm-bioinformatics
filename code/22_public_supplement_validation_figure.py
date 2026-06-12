@@ -23,7 +23,7 @@ Panels:
 
 PUBLIC-DATA ONLY. No experimental data from this study appears here.
 
-  conda run -n junye_ecm python 04_code/22_public_supplement_validation_figure.py
+  conda run -n skin-ecm-bioinformatics python 04_code/22_public_supplement_validation_figure.py
 
 Inputs (all on disk; GSE284483 was downloaded as public data, originals untouched):
   07_results/GSE113957_module_vs_age.tsv

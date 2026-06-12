@@ -7,14 +7,14 @@
 # Create / update:
 #     conda env create -f environment.yml          # first time
 #     conda env update -f environment.yml --prune   # to update
-#     conda activate junye_ecm
+#     conda activate skin-ecm-bioinformatics
 #
 # Pinning policy: we pin the Python minor version for reproducibility but leave
 # library patch versions free so the solver can resolve a consistent stack.
 # Re-export an exact lock once analysis is finalized:
-#     conda env export --no-builds -n junye_ecm > environment.lock.yml
+#     conda env export --no-builds -n skin-ecm-bioinformatics > environment.lock.yml
 # =============================================================================
-name: junye_ecm
+name: skin-ecm-bioinformatics
 channels:
   - conda-forge
   - bioconda
