@@ -1,0 +1,15 @@
+sample	group	module_score
+GSM3019651	young	0.6852
+GSM3019652	young	0.6418
+GSM3019653	young	0.6448
+GSM3019654	young	0.3957
+GSM3019655	old	-0.6745
+GSM3019656	old	-0.4774
+GSM3019657	old	-0.5168
+GSM3019658	old	-0.6989
+__young_mean__	young	0.5919
+__old_mean__	old	-0.5919
+__delta_old_minus_young__		-1.1838
+__welch_t__		-13.707
+__welch_p_old_vs_young__		1e-05
+__n_genes_in_module__		19.0

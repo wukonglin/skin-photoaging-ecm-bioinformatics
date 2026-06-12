@@ -1,0 +1,12 @@
+metric	value
+fibroblast_n_total	2285
+fibroblast_n_Normal_buttock	1427
+fibroblast_n_Photoaged_arm	858
+fibroblast_ECM_mean_Normal_buttock	1.0206
+fibroblast_ECM_mean_Photoaged_arm	1.1578
+delta_Photoaged_minus_Normal	0.1372
+cell_level_MWU_p_exploratory	6.023e-12
+n_module_genes_present	19
+total_cells_after_QC	9871
+biological_replication	NONE (single individual; cell-level comparison is exploratory)
+condition_mapping_assumption	suffix -1=GSM8478429 photoaged arm; -2=GSM8478430 normal buttock (GEO sample order)

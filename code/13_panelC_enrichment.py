@@ -7,7 +7,7 @@ Take the genes DOWN-regulated in fibroblasts under UV (from the GSE173385 scRNA
 analysis) and test which pathways they enrich for. Headline: ECM / collagen /
 adhesion programs are over-represented among the UV-suppressed fibroblast genes.
 
-  conda run -n junye_ecm python 04_code/13_panelC_enrichment.py
+  conda run -n skin-ecm-bioinformatics python 04_code/13_panelC_enrichment.py
 
 Input:  06_data_processed/GSE173385_annotated.h5ad  (from step 12)
 Outputs:

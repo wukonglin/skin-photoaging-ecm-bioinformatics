@@ -1,5 +1,5 @@
 # requirements.txt -- pip fallback for the PYTHON side of this project.
-# Prefer the conda environment (environment.yml -> env "junye_ecm"); use this
+# Prefer the conda environment (environment.yml -> env "skin-ecm-bioinformatics"); use this
 # only if you must install into a plain venv:
 #     python -m venv .venv && source .venv/bin/activate
 #     pip install -r requirements.txt

@@ -71,8 +71,8 @@ public-data figures are included. See
 
 ```bash
 # Conda (recommended):
-conda env create -f code/environment.yml      # creates env "junye_ecm"
-conda activate junye_ecm
+conda env create -f code/environment.yml      # creates env "skin-ecm-bioinformatics"
+conda activate skin-ecm-bioinformatics
 # or pip into a fresh venv:
 python -m venv .venv && source .venv/bin/activate && pip install -r code/requirements.txt
 ```
