@@ -30,6 +30,34 @@ than a guessed identifier.
 - Note on use: NoUVB vs UVB-saline contrast only (n = 3/group); the collagen-mRNA treatment
   arm is excluded. Replicate-aware reanalysis.
 
+### GSE110978 — mouse dermal fibroblasts, aging microarray (Round 4)
+- Repository record: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110978
+- Platform: Affymetrix Mouse Genome 430 2.0 (PM), GPL11180.
+- Associated publication (verified): PMID 30415840 — https://pubmed.ncbi.nlm.nih.gov/30415840/
+  (Salzer et al., *Cell* 2018).
+- Note on use: replicate-aware reanalysis (n = 4 young vs n = 4 old dermal fibroblasts);
+  ECM/collagen module declines with aging (Welch p = 1.2×10⁻⁵; 17/19 genes down). First
+  in-vivo, fibroblast-resolved, replicate-aware ECM read-out in this package (intrinsic aging).
+
+### GSE275491 — human skin photoaging, single-cell RNA-seq (Round 4)
+- Repository record: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE275491
+- Associated publication (verified): PMID 39540047 — https://pubmed.ncbi.nlm.nih.gov/39540047/
+- Note on use: paired photoaged arm vs normal buttock within **one individual**, so the
+  per-fibroblast ECM comparison is reported as **exploratory** only (not used to claim ECM decline).
+
+### PRJNA754272 — human skin aging, single-cell RNA-seq (Round 4; accession-verified, deferred)
+- Repository record: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA754272
+- Associated publication (verified): PMID 35069694 — https://pubmed.ncbi.nlm.nih.gov/35069694/
+- Note on use: SRA-only (~185 GB FASTQ; 7 donors); accession-verified, reanalysis deferred to
+  future donor-level validation. See `results/validation_reports/PRJNA754272_accession_verification.md`.
+
+### PXD018430 — human skin aging proteomics (Round 4; cite-only)
+- Repository record: https://www.ebi.ac.uk/pride/archive/projects/PXD018430
+- Associated publication (verified): PMID 32602849 — https://pubmed.ncbi.nlm.nih.gov/32602849/
+  (Ma et al., *Aging (Albany NY)* 2020; DOI 10.18632/aging.103461).
+- Note on use: raw-only PRIDE deposit (~90 GB; no processed protein table) → **cite-only**;
+  no new numbers are derived here. See `docs/audit/PXD018430_public_use_note.md`.
+
 ## Literature-curated signature
 
 ### Human matrisome aging/photoaging signature (129 genes)
